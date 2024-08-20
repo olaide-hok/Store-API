@@ -78,7 +78,7 @@ Once the server is running, you can interact with the API using HTTP requests. T
 GET /products?name=ikea&price[lte]=500&sort=price
 ```
 
-This request fetches products with "phone" in their name, priced at $500 or less, and sorts the results by price.
+This request fetches products with "ikea" in their name, priced at $500 or less, and sorts the results by price.
 
 ## API Endpoints
 
